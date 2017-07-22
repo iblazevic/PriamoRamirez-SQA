@@ -1,0 +1,26 @@
+{
+  "basics": {
+    "name": "Priamo Ramirez",
+    "label": "QA Engineer",
+    "email": "priamo.ramirez@gmail.com",
+    "phone": "+385 97 606 3058",
+    "summary": "5+ Year experienced QA Engineer, with an actual love for webdriverIO/Mocha/Chai Tests",
+	}
+	  "languages": [
+    {
+      "language": "English",
+      "fluency": "Excellent"
+    },
+	{
+      "language": "Spanish",
+      "fluency": "Native Speaking"
+    }
+  ],
+  	  "Hobbies": [
+    {
+      "Sport": "Table Tennis",
+      "Level": "Ninja"
+    },
+
+  ]
+}
