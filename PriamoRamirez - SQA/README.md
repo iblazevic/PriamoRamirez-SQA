@@ -10,7 +10,7 @@
 ### Prerequisites
 
 In order to run the tests you need to have NodeJS installed (preferrably version 6.10.3 or higher). After installing
-Node, issue this command in the ** Priamo Ramirez - Senior QA Engineer/Login ** directory:
+Node, issue this command in the ** Priamo Ramirez - Senior QA Engineer/ ** directory:
 
 ```bash
  $ npm update
